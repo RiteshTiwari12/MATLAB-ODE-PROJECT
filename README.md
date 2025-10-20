@@ -46,7 +46,7 @@
 
 
 
-*1. clone this repository:* git clone https://github,com/RiteshTiwari12/MATLAB-ODE-PROJECT.git cd MATLAB-ODE-PROJECT	
+*1. clone this repository:* git clone https://github.com/RiteshTiwari12/MATLAB-ODE-PROJECT.git cd MATLAB-ODE-PROJECT	
 
 *2. Open MATLAB and run this file:* MATLAB-ODE-PROJECT
 
@@ -57,6 +57,12 @@
 		ii. Display a comparison plot.
 
 ##### 
+
+##### <b># Sample Output</b>
+
+
+![Comparison Graph](results/ode_Graph.png)
+
 
 ##### <b># Learning Outcomes</b>
 
@@ -72,7 +78,7 @@
 
 	4. How to compare analytical vs. numerical solutions using visual plots.
 
-	5. Improved problem-solving and coding skills** in MATLAB.
+	5. Improved problem-solving and coding skills in MATLAB.
 
 
 
@@ -92,7 +98,7 @@
 
 ###### 
 
-###### <b>Author:  Ritesh Tiwari</b>
+##### <b>Author:  Ritesh Tiwari</b>
 
 
 
