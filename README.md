@@ -16,15 +16,15 @@
 
 *Implemented methods:*
 
-	***1. Euler's method.***
+	1. Euler's method.
 
-	***2. Heun's method.***
+	2. Heun's method.
 
-	***3. Runge-Kutta 4th order method.***
+	3. Runge-Kutta 4th order method.
 
-	***4. MATLAB Built-in ODE Solver(ode45).***
+	4. MATLAB Built-in ODE Solver(ode45).
 
-	***5. Analytical method.***
+	5. Analytical method.
 
 
 
@@ -46,19 +46,15 @@
 
 
 
-1. *clone this repository:*
-1. 
-*&nbsp;*	
+*1. clone this repository:* git clone https://github,com/RiteshTiwari12/MATLAB-ODE-PROJECT.git cd MATLAB-ODE-PROJECT	
 
-*2. Open MATLAB and run this file:*
-
-
+*2. Open MATLAB and run this file:* MATLAB-ODE-PROJECT
 
 *3. The program will:*
 
-		*i. Solve the ODE using all five methods.*
+		i. Solve the ODE using all five methods.
 
-		*ii. Display a comparison plot.* 
+		ii. Display a comparison plot.
 
 ##### 
 
@@ -68,15 +64,15 @@
 
 *From this project, I learned:*
 
-	*1. How to implement **step-by-step numerical methods** (Euler, Heun, Runge-Kutta).*
+	1. How to implement step-by-step numerical methods (Euler, Heun, Runge-Kutta).
 
-	*2. How to use **MATLAB's built-in solver** (ode45).*
+	2. How to use MATLAB's built-in solver (ode45).
 
-	*3. The importance of **step size (h)** in numerical accuracy.*
+	3. The importance of step size (h) in numerical accuracy.
 
-	*4. How to compare **analytical vs. numerical solutions** using visual plots.*
+	4. How to compare analytical vs. numerical solutions using visual plots.
 
-	*5. Improved **problem-solving and coding skills** in MATLAB.*
+	5. Improved problem-solving and coding skills** in MATLAB.
 
 
 
